@@ -1,0 +1,12 @@
+body{ 
+    background: rgb(60, 39, 78);
+    margin: 0px;
+}
+.Svg1{
+    width: 100%;
+}
+.Svg2{
+    width: 100%;
+    position: relative;
+    top: -110px
+}
